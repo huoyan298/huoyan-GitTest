@@ -1,0 +1,4 @@
+1.download Django, 对3.1.5 版本的 PATH 和URL 的差别大，
+降版，降为Django 2.2 版本，编写到一半的项目出现问题，解决一些问题。
+with Path(CURRENT_DIR, 'templates', 'technical_500.html').open(encoding="utf-8") as fh:等
+2.对html中的元素扥不熟
